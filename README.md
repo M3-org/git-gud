@@ -38,12 +38,15 @@ Photogrammetry guide: https://rd.nytimes.com/projects/an-end-to-end-guide-to-pho
 
 
 Scan and optimize something
+export glTF and upload somewhere (sketchfab is fine)
 
 ## Create world
 
 https://github.com/msub2/awesome-webxr#frameworks-and-libraries
 
-Make a virtual world in a webxr framework
+Make a virtual world in a webxr framework or [vrchat](https://docs.vrchat.com/docs/setting-up-the-sdk)
+
+recommendations: [janusweb](https://janusvr.github.io/guide/#/examples/markup) / [aframe](https://aframe.io/docs/)
 
 Bonus if its in a multi-user avatar space
 
@@ -62,6 +65,8 @@ grats if you made it this far
 Important to capture your demo / experience in the best light
 Learn how to take good quality screenshots and video clips of your experience
 Then make a 20-30 second sizzle video combining clips
+
+If you want to present as vtuber see https://github.com/madjin/vtuber-podcast
 
 [Marketing: Building an Audience by Lakuza | TLX Spring 2021](https://www.youtube.com/watch?v=7o2qffqSWOc)
 
