@@ -75,7 +75,7 @@ Check out https://fleek.co or https://pinata.cloud for ez mode IPFS hosting
 
 ### Bonus: ENS
 
-Buy an ENS address, host the webxr experience on there
+Buy an ENS address, point to the webxr experience with it
 
 gj if you made it this far
 
