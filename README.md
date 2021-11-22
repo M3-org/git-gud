@@ -13,7 +13,7 @@ Read [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
 
 **Step 2: Start a journal**
 
-Get into the habit of making documentation along the way, it is the best way to scale one-self. You can use hackmd and track your progress as you learn for easy sharing - notes make it faster to receive help and can become useful community contributions too.
+Get into the habit of making documentation along the way, it is the best way to scale one-self. You can use [hackmd](https://hackmd.io/) and track your progress as you learn for easy sharing - notes make it faster to receive help and can become useful community contributions too.
 
 **Step 3: Make stuff**
 
@@ -75,7 +75,11 @@ Check out https://fleek.co or https://pinata.cloud for ez mode IPFS hosting
 
 ### Bonus: ENS
 
+(you'll need an ETH wallet for this step)
+
 Buy an ENS address, point to the webxr experience with it
+
+can use testnet if you don't wanna spend ETH
 
 gj if you made it this far
 
