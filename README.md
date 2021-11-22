@@ -5,17 +5,17 @@ how to git gud
 
 ## High Level
 
-Step 1. Mindset
+**Step 1. Mindset**
 
 Think like a mad hacker scientist. Psyops your own brain through fashion if you struggle with this, get a dress shirt and tie and nice jacket from a store or for your vtuber avatar (search booth.pm).
 
 Read [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
 
-Step 2: Start a journal
+**Step 2: Start a journal**
 
 Get into the habit of making documentation along the way, it is the best way to scale one-self. You can use hackmd and track your progress as you learn for easy sharing - notes make it faster to receive help and can become useful community contributions too.
 
-Step 3: Make stuff
+**Step 3: Make stuff**
 
 
 ## Make avatar
