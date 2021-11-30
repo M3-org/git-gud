@@ -1,7 +1,7 @@
 # git-gud
 
 how to git gud
-
+stuck? join discord: https://discord.gg/m3org
 
 ## High Level
 
