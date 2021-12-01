@@ -30,6 +30,8 @@ Search aroun vtuber youtuber for advanced tips
 ## 3D scan
 
 Photogrammetry guide: https://rd.nytimes.com/projects/an-end-to-end-guide-to-photogrammetry-with-mobile-devices
+Easier: https://sketchfab.com/blogs/community/tutorial-meshroom-for-beginners/
+
 
 Get a camera and 3D scan something, can be an environment or object
 Export 3D model and upload somewhere (sketchfab is fine)
