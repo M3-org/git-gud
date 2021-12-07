@@ -4,6 +4,8 @@ how to git gud
 
 discord: https://discord.gg/m3org
 
+![](https://i.imgur.com/FNN0YYR.png)
+
 ## High Level
 
 **Step 1. Mindset**
