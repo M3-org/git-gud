@@ -27,7 +27,7 @@ Get into the habit of making documentation along the way, it is the best way to 
 2. Customize the clothing
 3. Export 2 versions: high quality and more optimized VRM of your vroid
 
-Search aroun vtuber youtuber for advanced tips
+Search around vtuber youtuber for advanced tips
 
 ## 3D scan
 
