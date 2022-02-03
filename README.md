@@ -69,6 +69,7 @@ https://github.com/msub2/awesome-webxr#frameworks-and-libraries
 Make a virtual world in a webxr framework, [vrchat](https://docs.vrchat.com/docs/setting-up-the-sdk), or [neosvr](https://neos.com/)
 
 webxr recommendations: [janusweb](https://janusvr.github.io/guide/#/examples/markup) / [aframe](https://aframe.io/docs/)
+There's a discord where webxr devs hang out also: https://discord.gg/Jt5tfaM
 
 Bonus if its in a multi-user avatar space
 
