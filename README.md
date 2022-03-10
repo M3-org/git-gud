@@ -23,11 +23,18 @@ Get into the habit of making documentation along the way, it is the best way to 
 
 ## Make avatar
 
+EZ mode: VRoid
+
 1. Create an avatar using vroid studio https://vroid.com/en/studio
-2. Customize the clothing
+2. Customize the clothing (import textures)
 3. Export 2 versions: high quality and more optimized VRM of your vroid
 
-Search aroun vtuber youtuber for advanced tips
+Drag n' drop into Webaverse to test: https://app.webaverse.com/?src=.%2Fscenes%2Fgrid.scn
+
+You can search around vtuber youtuber for advanced tips on VRM
+It's pretty meta in that vtubers will teach you about vtubing
+
+Notes: https://hackmd.io/@XR/avatars
 
 ## 3D scan
 
@@ -41,12 +48,14 @@ Export 3D model and upload somewhere (sketchfab is fine)
 
 ## Blender
 
+Optimize VRM avatar:
+
 1. Download blender https://www.blender.org/
 2. Download VRM plugin https://github.com/saturday06/VRM_Addon_for_Blender
 3. Import your VRM into blender
 4. Optimize it further
 
-or
+**or**
 
 Optimize your 3D scan:
 
@@ -57,7 +66,7 @@ Optimize your 3D scan:
 Then optimize the textures:
 
 - convert png to jpg
-- compress the textures without losing much quality
+- compress the textures without losing much quality (https://imagecompressor.com/)
 
 Take note of before and after with screenshots or clips, triangle count, and file size
 Finally, convert glTF to glb: https://github.com/CesiumGS/gltf-pipeline
@@ -100,7 +109,7 @@ If you want to present as vtuber see https://github.com/madjin/vtuber-podcast
 [Marketing: Building an Audience by Lakuza | TLX Spring 2021](https://www.youtube.com/watch?v=7o2qffqSWOc)
 
 DM jin on M3 discord when you're done
-share your work (hackmd notes / video)
+Can also post your work (hackmd notes / demo) here: https://github.com/M3-org/git-gud/issues/2
 
 You will get a M3 POAP for completing
 
