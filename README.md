@@ -3,6 +3,7 @@
 how to git gud
 
 discord: https://discord.gg/m3org
+dework: https://app.dework.xyz/m3/m3ta?taskId=85ba83f9-d42b-4f58-9423-25ee97c49c96
 
 ![](https://i.imgur.com/FNN0YYR.png)
 
