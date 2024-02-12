@@ -2,7 +2,7 @@
 
 how to git gud
 
-- discord: https://discord.gg/m3-org - can ask for help here
+- discord: https://m3org.com/discord - can ask for help here
 - dework: https://app.dework.xyz/m3/m3ta?taskId=85ba83f9-d42b-4f58-9423-25ee97c49c96 - where version 2 of this guide will live (WIP)
 
 ![](https://i.imgur.com/FNN0YYR.png)
